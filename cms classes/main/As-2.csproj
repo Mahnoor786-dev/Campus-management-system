@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>As_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Admin\Admin.csproj" />
+    <ProjectReference Include="..\student\student.csproj" />
+    <ProjectReference Include="..\teacher\teacher.csproj" />
+  </ItemGroup>
+
+</Project>

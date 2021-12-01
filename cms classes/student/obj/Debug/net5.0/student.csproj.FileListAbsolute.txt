@@ -1,0 +1,12 @@
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\bin\Debug\net5.0\student.deps.json
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\bin\Debug\net5.0\student.dll
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\bin\Debug\net5.0\ref\student.dll
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\bin\Debug\net5.0\student.pdb
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.csproj.AssemblyReference.cache
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.AssemblyInfoInputs.cache
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.AssemblyInfo.cs
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.csproj.CoreCompileInputs.cache
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.dll
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\ref\student.dll
+C:\Users\mahno\Desktop\web engg labs\assignment2\student\obj\Debug\net5.0\student.pdb
